@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Summer Intern",
+    "organisation": "IFFCO",
+    "startDate": "July, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on Collaboration Tasks Management Tool"],
+    "imageSrc": "history/iffco.png"
+  },
+  {
+    "role": "Intern",
+    "organisation": "Prodigy Infotech",
+    "startDate": "Sept, 2023",
+    "endDate": "Oct, 2023",
+    "experiences": ["Worked as a Web Developer"],
+    "imageSrc": "history/prodigy.png"
+  }
+]
+

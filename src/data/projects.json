@@ -1,0 +1,86 @@
+[
+  {
+    "title": "CollabFlow",
+    "imageSrc": "projects/project.png",
+    "description": "Collaboration Tasks Management Tool",
+    "skills": ["ReactJS", "MongoDb", "Node", "Tailwind"],
+    "source": "https://github.com/Viditkan26/Collabflow"
+  },
+  {
+    "title": "Chatter",
+    "imageSrc": "projects/project.png",
+    "description": "a real-time web chat application that supports group messaging.",
+    "skills": ["SpringBoot", "WebSocket", "JavaScript"],
+    "source": "https://github.com/Viditkan26/CHATTER"
+  },
+  {
+    "title": "SkyDocs",
+    "imageSrc": "projects/project.png",
+    "description": "A Document editting Tool similar to Google Docs",
+    "skills": ["ReactJS", "Socket.io", "MongoDB", "QuillJS"],
+    "source": "https://github.com/Viditkan26/SKYDOCS"
+  },
+  {
+    "title": "Driver Drowsiness",
+    "imageSrc": "projects/project.png",
+    "description": "car safety technology which helps prevent accidents caused by the driver getting drowsy.",
+    "skills": ["Python", "openCV"],
+    "source": "https://github.com/Viditkan26/Driver_Drowsiness"
+  },
+  {
+    "title": "The Gaming Zone",
+    "imageSrc": "projects/project.png",
+    "description": "4-in-1 game collection with four captivating games in a single package.",
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "source": "https://github.com/Viditkan26/-THE-GAMING-ZONE"
+  },
+  {
+    "title": "Bus Management System",
+    "imageSrc": "projects/project.png",
+    "description": "Designed for colleges that streamlines the entire bus management process.",
+    "skills": ["JS", "MondoDB", "CSS"],
+    "source": "https://github.com/Viditkan26/BUS-MANAGEMENT-SYSTEM"
+  },
+  {
+    "title": "2048",
+    "imageSrc": "projects/project.png",
+    "description": "slide numbered tiles on a grid to combine them to create a tile with the number 2048",
+    "skills": ["Javascript", "HTML", "CSS"],
+    "source": "https://github.com/Viditkan26/2048"
+  },
+  {
+    "title": "Snake Game",
+    "imageSrc": "projects/project.png",
+    "description": "player must keep the snake from colliding with obstacles and itself as the snake lengthens.",
+    "skills": ["Javascript", "HTML", "CSS"],
+    "source": "https://github.com/Viditkan26/Snake_Game"
+  },
+  {
+    "title": "Flappy Bird Game",
+    "imageSrc": "projects/project.png",
+    "description": "players navigate a bird through a series of obstacles by tapping to flap and stay airborne.",
+    "skills": ["Javascript", "HTML", "CSS"],
+    "source": "https://github.com/Viditkan26/Flappy_Bird_Game"
+  },
+  {
+    "title": "Tic Tac Toe",
+    "imageSrc": "projects/project.png",
+    "description": "player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner",
+    "skills": ["Javascript", "HTML", "CSS"],
+    "source": "https://github.com/Viditkan26/Tic_Tac_Toe"
+  },
+  {
+    "title": "Stopwatch",
+    "imageSrc": "projects/project.png",
+    "description": "The project features a user-friendly interface allowing users to start, pause, and reset the stopwatch.",
+    "skills": ["Javascript", "HTML", "CSS"],
+    "source": "https://github.com/Viditkan26/STOPWATCH"
+  },
+  {
+    "title": "WeatherForecast",
+    "imageSrc": "projects/project.png",
+    "description": "A dynamic weather forecasting application built with JavaScript that provides real-time weather updates. ",
+    "skills": ["Javascript", "HTML", "CSS"],
+    "source": "https://github.com/Viditkan26/WeatherForecast"
+  }
+]
